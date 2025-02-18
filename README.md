@@ -26,7 +26,7 @@ Users should be able to:
 Desktop View:
 ![image](https://github.com/user-attachments/assets/e17a6f7d-65c4-42e9-9180-dde9f0066c07)
 
-Mobile View:
+Mobile View:<br>
 ![image](https://github.com/user-attachments/assets/868f00c0-15e4-4fc0-8079-05f44e86c93a)
 
 ### Links
